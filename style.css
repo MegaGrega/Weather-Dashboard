@@ -1,0 +1,22 @@
+#heading{
+    text-align: center;
+    background-color: lightblue;
+    height: 7vh;
+}
+#city-search{
+    margin: 5px;
+    margin-bottom: 25px;
+}
+
+.cityName{
+    border-style: solid;
+    padding: 3px;
+    padding-left: 5px;
+    margin: 5px;
+}
+#weather-status{
+    background-color: lightcoral;
+}
+#first-column{
+    background-color: lightseagreen;
+}
